@@ -1,4 +1,4 @@
- Tetris AI
+# Tetris AI
  
 A heuristic AI that plays a bomb-and-discard variant of Tetris, together with a genetic-algorithm optimizer that automatically tunes the AI's evaluation weights. Built for UCL ENGF0034.
  
